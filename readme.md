@@ -1,3 +1,4 @@
+#  Code for Understanding the Urban Pandemic Spreading of COVID-19 with Real World Mobility Data (KDD'20)
 #  Epidemic simulator for COVID-19
 
 #### The following parameters are required to be set:
